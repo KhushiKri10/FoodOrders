@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_starter"
+                android:title="@string/menu_starter"/>
+        <item
+                android:id="@+id/nav_main_course"
+                android:title="@string/menu_main_course"/>
+        <item
+                android:id="@+id/nav_desserts"
+                android:title="@string/menu_desserts"/>
+        <item
+                android:id="@+id/nav_drinks"
+                android:title="@string/menu_drinks"/>
+    </group>
+
+
+</menu>

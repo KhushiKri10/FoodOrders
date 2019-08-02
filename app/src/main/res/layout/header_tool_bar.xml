@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="titleString"
+            type="String" />
+
+        <variable
+            name="instance"
+            type="com.demo.foodorders.base.HeaderToolBar" />
+    </data>
+
+    <RelativeLayout
+        android:id="@+id/rl_tool_bar_root"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary">
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/img_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/margin_5"
+            android:contentDescription="@null"
+             />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/colorPrimary"
+            tools:text="@string/app_name" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/img_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/margin_5"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+</layout>

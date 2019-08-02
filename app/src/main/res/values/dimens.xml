@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Common dimens-->
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_9">9dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_11">11dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_13">13dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_17">17dp</dimen>
+    <dimen name="margin_18">18dp</dimen>
+    <dimen name="margin_19">19dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_21">21dp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="margin_23">23dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_26">26dp</dimen>
+    <dimen name="margin_27">27dp</dimen>
+    <dimen name="margin_28">28dp</dimen>
+    <dimen name="margin_29">29dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_38">38dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_65">65dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
+    <dimen name="margin_75">75dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_85">85dp</dimen>
+    <dimen name="margin_90">90dp</dimen>
+    <dimen name="margin_95">95dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_110">110dp</dimen>
+    <dimen name="margin_120">120dp</dimen>
+    <dimen name="margin_130">130dp</dimen>
+    <dimen name="margin_150">150dp</dimen>
+    <dimen name="margin_160">160dp</dimen>
+    <dimen name="margin_180">180dp</dimen>
+    <dimen name="margin_200">200dp</dimen>
+    <dimen name="margin_250">250dp</dimen>
+    <dimen name="search_width">280dp</dimen>
+    <dimen name="margin_300">300dp</dimen>
+    <dimen name="margin_310">310dp</dimen>
+
+    <dimen name="login_banner_height">230dp</dimen>
+    <dimen name="margin_minus_5dp">-5dp</dimen>
+    <dimen name="margin_minus_10dp">-10dp</dimen>
+
+
+    <!--login screen dimen-->
+
+
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="text_14sp">14sp</dimen>
+    <dimen name="text_13sp">13sp</dimen>
+    <dimen name="text_12sp">12sp</dimen>
+    <dimen name="text_10sp">10sp</dimen>
+    <dimen name="text_16sp">16sp</dimen>
+    <dimen name="text_17sp">17sp</dimen>
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_26sp">26sp</dimen>
+    <dimen name="text_21sp">21sp</dimen>
+    <dimen name="text_22sp">22sp</dimen>
+    <dimen name="text_24sp">24sp</dimen>
+    <dimen name="text_30sp">30sp</dimen>
+    <dimen name="text_35sp">35sp</dimen>
+    <dimen name="text_48sp">48sp</dimen>
+
+    <!--Drawer Dimension-->
+    <dimen name="nav_size">300dp</dimen>
+    <dimen name="nav_icon_size">48dp</dimen>
+    <dimen name="nav_title_size">18sp</dimen>
+    <dimen name="nav_header_title">17sp</dimen>
+    <dimen name="nav_header_title_small">9sp</dimen>
+    <dimen name="nav_item_padding">@dimen/margin_8</dimen>
+
+    <!--Title bar-->
+    <!--<dimen name="toolbar_height">48dp</dimen>-->
+    <dimen name="toolbar_title_size">@dimen/nav_title_size</dimen>
+    <dimen name="toolbar_user_icon_size">@dimen/margin_50</dimen>
+    <dimen name="view_width1px">1px</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
